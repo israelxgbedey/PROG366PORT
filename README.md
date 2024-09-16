@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README provides a summary of the progress made this week on the project.
+This README provides a summary of my progress.
 
 ### Progress Summary
 
